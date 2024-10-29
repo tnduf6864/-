@@ -22,12 +22,13 @@
 - DBMS: MySql
 
 ## 이미지
-<img src="img/readme/1.png">
-<img src="img/readme/2.png">
-<img src="img/readme/3.png">
-<img src="img/readme/4.png">
-<img src="img/readme/5.png">
-<img src="img/readme/6.png">
-<img src="img/readme/7.png">
-<img src="img/readme/8.png">
-<img src="img/readme/9.jpg">
+<img src="img/1.png">
+<img src="img/2.png">
+<img src="img/3.png">
+<img src="img/4.png">
+<img src="img/5.png">
+<img src="img/6.png">
+<img src="img/7.png">
+<img src="img/8.png">
+<img src="img/9.jpg">
+< 해커톤 대회 발표 사진 >
